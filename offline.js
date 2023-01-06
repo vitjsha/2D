@@ -1,0 +1,31 @@
+﻿{
+	"version": 1672990492,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hero-sheet0.png",
+		"images/hero-sheet1.png",
+		"images/coins-sheet0.png",
+		"images/sky.png",
+		"images/grass.png",
+		"images/platform.png",
+		"images/stick.png",
+		"images/thorns-sheet0.png",
+		"images/heart-sheet0.png",
+		"images/death-sheet0.png",
+		"images/death-sheet1.png",
+		"images/portal-sheet0.png",
+		"images/exit-sheet0.png",
+		"images/newgame-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/tiledbackground3.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
